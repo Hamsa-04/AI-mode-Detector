@@ -1,0 +1,1015 @@
+text,mood
+I am very happy today,Happy
+I got a new job,Happy
+I feel amazing,Happy
+I am excited,Happy
+This is the best day,Happy
+I am feeling sad,Sad
+I miss my friend,Sad
+I am crying,Sad
+I feel lonely,Sad
+Everything is bad,Sad
+I am so angry,Angry
+I hate this,Angry
+This makes me mad,Angry
+I am frustrated,Angry
+I am calm,Neutral
+Today is normal,Neutral
+Nothing special happened,Neutral
+I am okay,Neutral
+Just another day,Neutral
+I am feeling fantastic,Happy
+Today is a wonderful day,Happy
+I passed my exam,Happy
+I won the competition,Happy
+I got promoted,Happy
+I am smiling today,Happy
+Life is beautiful,Happy
+I enjoyed the party,Happy
+I achieved my goal,Happy
+I got my dream job,Happy
+My family surprised me,Happy
+I love spending time with my friends,Happy
+Everything is going well,Happy
+I am proud of myself,Happy
+I received good news,Happy
+I am full of energy,Happy
+I had a great vacation,Happy
+I feel blessed,Happy
+I am very grateful today,Happy
+I completed my project successfully,Happy
+I am excited for tomorrow,Happy
+I feel confident,Happy
+I got a gift today,Happy
+Today is my lucky day,Happy
+I am enjoying my life,Happy
+I feel heartbroken,Sad
+Nobody understands me,Sad
+I failed my exam,Sad
+I lost my phone,Sad
+I am feeling depressed,Sad
+I miss my family,Sad
+I feel helpless,Sad
+I am disappointed,Sad
+Everything is going wrong,Sad
+I am unhappy,Sad
+I feel empty,Sad
+My friend ignored me,Sad
+I am crying alone,Sad
+Today is a bad day,Sad
+I lost my pet,Sad
+I regret my decision,Sad
+I feel hopeless,Sad
+I am mentally exhausted,Sad
+I got rejected,Sad
+I am feeling down,Sad
+My plans failed,Sad
+I have no motivation,Sad
+I am worried about my future,Sad
+I feel lonely today,Sad
+Nothing makes me happy,Sad
+I am furious,Angry
+I cannot control my anger,Angry
+This is unacceptable,Angry
+I am really upset,Angry
+Stop bothering me,Angry
+Leave me alone,Angry
+I am annoyed,Angry
+This makes me furious,Angry
+I hate waiting,Angry
+I am losing my patience,Angry
+Why did you do this,Angry
+I am very irritated,Angry
+I cannot tolerate this,Angry
+Everything is frustrating,Angry
+This is ridiculous,Angry
+I am shouting loudly,Angry
+You ruined my day,Angry
+I am feeling aggressive,Angry
+I am disappointed and angry,Angry
+I am sick of this,Angry
+Don't talk to me,Angry
+This is so unfair,Angry
+I am extremely mad,Angry
+You made me angry,Angry
+I am boiling with anger,Angry
+I am reading a book,Neutral
+I am going to college,Neutral
+I am eating lunch,Neutral
+Today is Monday,Neutral
+I am working on my laptop,Neutral
+I woke up early,Neutral
+I am writing notes,Neutral
+The weather is normal,Neutral
+I am watching television,Neutral
+I am sitting in my room,Neutral
+I am learning Python,Neutral
+I am drinking water,Neutral
+I have completed my work,Neutral
+I am waiting for the bus,Neutral
+I am using my mobile phone,Neutral
+I am walking in the park,Neutral
+I have a meeting today,Neutral
+I am attending class,Neutral
+I am cooking dinner,Neutral
+I am listening to music,Neutral
+The shop is open,Neutral
+I am checking my email,Neutral
+I finished my homework,Neutral
+I am cleaning my room,Neutral
+I am travelling to Mysore,Neutral
+I am eating dinner,Neutral
+I feel terrified whenever I hear strange sounds.,Fear
+The dark forest made me feel uneasy.,Fear
+I was afraid to answer the phone.,Fear
+I fear making the wrong decision.,Fear
+My stomach tightened with fear.,Fear
+I felt nervous before my presentation.,Fear
+I am worried about tomorrow.,Fear
+I panic when I lose my wallet.,Fear
+I fear being left alone.,Fear
+The barking dog scared me.,Fear
+I was frightened by the lightning.,Fear
+I was afraid to enter the old house.,Fear
+My anxiety keeps growing.,Fear
+I fear disappointing my parents.,Fear
+I became nervous during the interview.,Fear
+I felt threatened by the stranger.,Fear
+I was scared to look behind me.,Fear
+I am afraid of deep water.,Fear
+I couldn't stop shaking.,Fear
+I feared the worst.,Fear
+I thought something terrible had happened.,Fear
+The silence made me uncomfortable.,Fear
+I was scared to drive in the storm.,Fear
+I fear losing my job.,Fear
+My mind was filled with fear.,Fear
+I truly love my parents.,Love
+I love helping people in need.,Love
+You always make my day brighter.,Love
+I appreciate everything you do for me.,Love
+I feel safe when I'm with you.,Love
+I enjoy your company every day.,Love
+You make my life beautiful.,Love
+I admire your strength.,Love
+Your smile brightens my day.,Love
+I am thankful for your support.,Love
+I feel loved and respected.,Love
+I care about your happiness.,Love
+You are my greatest blessing.,Love
+I love sharing my dreams with you.,Love
+I enjoy making you happy.,Love
+My family means everything to me.,Love
+I love the way you encourage me.,Love
+I am proud to call you my friend.,Love
+I enjoy every conversation with you.,Love
+Your kindness touches my heart.,Love
+I will never stop believing in you.,Love
+I always think about you.,Love
+You make me feel special.,Love
+I treasure every memory with you.,Love
+I am happiest when we are together.,Love
+"Wow, that's incredible!",Surprise
+I wasn't expecting this at all.,Surprise
+You really surprised me today.,Surprise
+I can't believe I won the prize.,Surprise
+The announcement shocked everyone.,Surprise
+What an unexpected opportunity!,Surprise
+I never thought this day would come.,Surprise
+That was a huge surprise.,Surprise
+I was amazed by the results.,Surprise
+I couldn't believe the good news.,Surprise
+Everyone looked surprised.,Surprise
+That came out of nowhere.,Surprise
+I was completely stunned.,Surprise
+I didn't see this coming.,Surprise
+What an unbelievable moment!,Surprise
+I was surprised by your kindness.,Surprise
+The ending was full of surprises.,Surprise
+I was amazed at how quickly it happened.,Surprise
+That gift caught me off guard.,Surprise
+I couldn't stop smiling after the surprise.,Surprise
+It happened so suddenly.,Surprise
+I was shocked to hear my name.,Surprise
+This is the best surprise ever.,Surprise
+I never expected such a warm welcome.,Surprise
+Everything happened unexpectedly.,Surprise
+she is gem of person,Neutral
+I am feeling amazing today.,Happy
+Today is the best day of my life.,Happy
+I got promoted at work.,Happy
+I passed my exam with good marks.,Happy
+I am grateful for everything.,Happy
+I feel lonely today.,Sad
+Nobody understands my feelings.,Sad
+I lost my favorite pet.,Sad
+I miss my best friend.,Sad
+I failed my interview.,Sad
+This is making me angry.,Angry
+Stop shouting at me.,Angry
+I hate being treated unfairly.,Angry
+I am furious right now.,Angry
+He lied to me.,Angry
+I feel scared of the future.,Fear
+I am nervous about tomorrow.,Fear
+I think something bad will happen.,Fear
+I am afraid of heights.,Fear
+The dark makes me anxious.,Fear
+I love my parents.,Love
+I appreciate your kindness.,Love
+You are very special to me.,Love
+I enjoy spending time with you.,Love
+I love helping people.,Love
+Wow! That was unexpected.,Surprise
+I can't believe this happened!,Surprise
+This gift surprised me.,Surprise
+That was incredible.,Surprise
+What an amazing moment!,Surprise
+Today is a normal day.,Neutral
+I am drinking coffee.,Neutral
+The meeting starts at 10 AM.,Neutral
+I finished my homework.,Neutral
+I am walking to school.,Neutral
+she is gem of person,Neutral
+I got good news,Happy
+I enjoyed my day,Happy
+I enjoyed my day,Happy
+I am smiling,Happy
+I got good news,Happy
+I feel happy today,Happy
+I got good news,Happy
+I am smiling,Happy
+I achieved my goal,Happy
+I enjoyed my day,Happy
+I am smiling,Happy
+I am smiling,Happy
+I achieved my goal,Happy
+I got good news,Happy
+I am smiling,Happy
+I achieved my goal,Happy
+I am smiling,Happy
+I am smiling,Happy
+I achieved my goal,Happy
+I enjoyed my day,Happy
+I am good,Happy
+I woke up feeling refreshed today,Happy
+My parents appreciated my hard work,Happy
+I won a prize in the competition,Happy
+I completed my project successfully,Happy
+My teacher praised my performance,Happy
+I had a delicious meal today,Happy
+My friend gave me a wonderful gift,Happy
+I reached my target on time,Happy
+I enjoyed watching my favorite movie,Happy
+I received positive feedback at work,Happy
+I laughed with my friends all day,Happy
+I learned something new today,Happy
+I finally solved a difficult problem,Happy
+My vacation was amazing,Happy
+I celebrated my birthday with my family,Happy
+Toady is my birthdat,Happy
+I feel lonely without my family,Sad
+I didn't get the job I wanted,Sad
+My best friend moved away,Sad
+I failed to achieve my goal,Sad
+I lost an important document,Sad
+I couldn't sleep last night,Sad
+I miss my childhood memories,Sad
+I feel left out by everyone,Sad
+Nobody listened to my opinion,Sad
+My plans got cancelled,Sad
+I made a mistake that upset me,Sad
+I broke my favorite phone,Sad
+I feel tired of everything,Sad
+I wish things were better,Sad
+Today was a difficult day,Sad
+I miss you,Sad
+Someone blamed me unfairly,Angry
+I am tired of waiting,Angry
+This situation is unacceptable,Angry
+He ignored my request,Angry
+They wasted my time,Angry
+I feel irritated today,Angry
+Please stop arguing with me,Angry
+I cannot accept this decision,Angry
+My work was not appreciated,Angry
+I lost my patience,Angry
+This traffic is making me angry,Angry
+People are not following the rules,Angry
+I hate unnecessary delays,Angry
+My internet stopped working,Angry
+Everything is going wrong today,Angry
+I am going to kill you,Angry
+I heard a strange sound outside,Fear
+I am afraid of failing the exam,Fear
+Walking alone at night scares me,Fear
+I feel unsafe in this place,Fear
+I worry about my future,Fear
+The thunder frightened me,Fear
+I am scared of hospitals,Fear
+I feel anxious before interviews,Fear
+I fear losing my loved ones,Fear
+I don't know what will happen next,Fear
+I am worried about the results,Fear
+I feel nervous during presentations,Fear
+The horror movie scared me,Fear
+I am afraid of deep water,Fear
+I fear making mistakes,Fear
+I fear,Fear
+I love spending time with my parents,Love
+My sister always supports me,Love
+I enjoy helping my friends,Love
+I care about everyone's happiness,Love
+I am thankful for your kindness,Love
+You always make me smile,Love
+My family is my biggest strength,Love
+I respect my teachers,Love
+I love playing with my pet,Love
+I appreciate your support,Love
+I feel lucky to have you,Love
+I trust you completely,Love
+You inspire me every day,Love
+I enjoy talking to you,Love
+Your friendship means a lot to me,Love
+I am Happy with You,Love
+I was surprised by the announcement,Surprise
+The gift was completely unexpected,Surprise
+I couldn't believe my eyes,Surprise
+The result shocked everyone,Surprise
+Nobody expected this outcome,Surprise
+The news amazed me,Surprise
+I was speechless after hearing it,Surprise
+That happened so suddenly,Surprise
+The surprise party made me happy,Surprise
+I never imagined this would happen,Surprise
+What an unbelievable experience,Surprise
+This was beyond my expectations,Surprise
+I was amazed by the performance,Surprise
+Everything changed in a second,Surprise
+That was a shocking moment,Surprise
+I am too glad,Surprise
+I am writing my assignment,Neutral
+The bus arrived on time,Neutral
+I drank a glass of milk,Neutral
+The shop opens at nine,Neutral
+I completed my homework,Neutral
+The weather is cloudy today,Neutral
+I am using my laptop,Neutral
+The meeting starts in five minutes,Neutral
+I am waiting for the train,Neutral
+The classroom is clean,Neutral
+I bought a new notebook,Neutral
+The library is open today,Neutral
+I finished reading the book,Neutral
+The fan is running,Neutral
+I am sitting in the garden,Neutral
+I am ssitting in the balcony,Neutral
+I completed all my tasks before lunch,Happy
+I received appreciation from my manager,Happy
+I enjoyed a peaceful evening,Happy
+My family celebrated my success,Happy
+I got a scholarship today,Happy
+I met my best friend after a long time,Happy
+I baked a delicious cake,Happy
+I enjoyed listening to my favorite songs,Happy
+I received a compliment from my teacher,Happy
+I solved a challenging puzzle,Happy
+I achieved a new personal record,Happy
+I spent quality time with my family,Happy
+I felt confident during my presentation,Happy
+I bought something I always wanted,Happy
+Everyone appreciated my ideas,Happy
+Every happi,Happy
+I forgot my wallet at home,Sad
+I missed an important opportunity,Sad
+I couldn't finish my work on time,Sad
+I lost my favorite watch,Sad
+I argued with my close friend,Sad
+I was not selected for the team,Sad
+I couldn't attend the event,Sad
+I feel disappointed in myself,Sad
+I miss my grandparents,Sad
+Today did not go as planned,Sad
+I feel emotionally tired,Sad
+Nobody wished me today,Sad
+I feel like giving up,Sad
+I am struggling with my studies,Sad
+Everything feels difficult today,Sad
+I cant work on time,Sad
+Someone interrupted me repeatedly,Angry
+The service was very poor,Angry
+I don't like being ignored,Angry
+He broke my trust,Angry
+They didn't keep their promise,Angry
+I am upset about the delay,Angry
+People are making too much noise,Angry
+I hate unfair treatment,Angry
+I am annoyed with this situation,Angry
+Stop making excuses,Angry
+This problem is really frustrating,Angry
+I can't stay calm anymore,Angry
+I am angry about the decision,Angry
+That comment offended me,Angry
+I lost my temper today,Angry
+,
+I fear speaking in public,Fear
+The storm frightened me,Fear
+I feel anxious about my health,Fear
+I worry about my family,Fear
+I am scared of flying,Fear
+The exam results make me nervous,Fear
+I don't feel safe walking alone,Fear
+I fear losing my job,Fear
+I panic during emergencies,Fear
+I was frightened by the loud sound,Fear
+I fear disappointing my parents,Fear
+I am nervous before interviews,Fear
+I worry too much about everything,Fear
+I feel uneasy in crowded places,Fear
+I fear the unknown,Fear
+I am thing fear,Fear
+I love helping my parents,Love
+I enjoy caring for animals,Love
+My brother always supports me,Love
+I feel grateful for my family,Love
+I appreciate every little kindness,Love
+You always encourage me,Love
+I cherish our friendship,Love
+I respect your honesty,Love
+I enjoy spending weekends with my family,Love
+My friends make me happy,Love
+I care about your feelings,Love
+I admire your dedication,Love
+Thank you for being there,Love
+Your support means everything to me,Love
+I value our relationship,Love
+I am value this,Love
+The announcement surprised everyone,Surprise
+I found money in my old bag,Surprise
+I got an unexpected phone call,Surprise
+The ending of the movie shocked me,Surprise
+My friends planned a surprise trip,Surprise
+I didn't expect such good news,Surprise
+The teacher announced a holiday,Surprise
+I was amazed by the beautiful view,Surprise
+The gift box was full of surprises,Surprise
+I unexpectedly met my childhood friend,Surprise
+The final score shocked us,Surprise
+I received an award unexpectedly,Surprise
+The fireworks started suddenly,Surprise
+That answer surprised the whole class,Surprise
+The results were better than expected,Surprise
+I am surprised,Surprise
+I am cleaning my room,Neutral
+The sun rises in the east,Neutral
+I have an online class today,Neutral
+The restaurant opens at noon,Neutral
+I am waiting for the meeting,Neutral
+I charged my phone,Neutral
+The train is on time,Neutral
+I bought groceries this morning,Neutral
+The park is open today,Neutral
+I finished my breakfast,Neutral
+The computer is updating,Neutral
+I am reading the newspaper,Neutral
+The lights are turned on,Neutral
+I reached the office early,Neutral
+The lecture starts at ten,Neutral
+I do coffe,Neutral
+I got good news,Happy
+I enjoyed my day,Happy
+I am smiling,Happy
+I achieved my goal,Happy
+I feel happy today,Happy
+My hard work paid off,Happy
+I received a surprise gift,Happy
+I had a wonderful time,Happy
+I am full of joy,Happy
+Today was amazing,Happy
+,
+I lost my wallet,Sad
+I miss my family,Sad
+I feel lonely,Sad
+I am crying,Sad
+Today was a bad day,Sad
+I failed my exam,Sad
+I feel heartbroken,Sad
+Nobody understands me,Sad
+I am feeling down,Sad
+I regret my mistake,Sad
+,
+I am very angry,Angry
+This makes me furious,Angry
+I cannot control my anger,Angry
+I hate this situation,Angry
+I am really upset,Angry
+Stop bothering me,Angry
+I am frustrated,Angry
+This is unacceptable,Angry
+I am annoyed by the noise,Angry
+Why is this happening,Angry
+,
+I am just sitting here,Neutral
+Today is a normal day,Neutral
+I completed my work,Neutral
+I have nothing to say,Neutral
+Everything is fine,Neutral
+I woke up early,Neutral
+I am reading a book,Neutral
+The weather is pleasant,Neutral
+I finished my breakfast,Neutral
+I am waiting for the bus,Neutral
+I am waiting for the uber,Neutral
+I woke up with a smile,Happy
+I got a promotion today,Happy
+My parents appreciated me,Happy
+I made a new friend,Happy
+I won the competition,Happy
+I completed my project successfully,Happy
+I enjoyed dinner with my family,Happy
+I laughed a lot today,Happy
+I achieved another milestone,Happy
+My dream is coming true,Happy
+I feel energetic today,Happy
+I received good feedback,Happy
+My vacation starts tomorrow,Happy
+I helped someone today,Happy
+I got my favorite gift,Happy
+I enjoyed the beautiful weather,Happy
+I passed all my subjects,Happy
+I feel confident about myself,Happy
+Everything is going well,Happy
+I had a peaceful day,Happy
+My team won the match,Happy
+I finally reached my goal,Happy
+I am grateful for today,Happy
+I had a lot of fun,Happy
+I love spending time with friends,Happy
+,
+I feel tired and lonely,Sad
+I miss my childhood,Sad
+I had an argument with my friend,Sad
+I lost something important,Sad
+I did not get the job,Sad
+I feel hopeless today,Sad
+I am disappointed in myself,Sad
+Nobody called me today,Sad
+I feel left out,Sad
+I cannot stop crying,Sad
+I feel empty inside,Sad
+I wish things were different,Sad
+My plans were cancelled,Sad
+I feel stressed and sad,Sad
+I miss my best friend,Sad
+Today feels difficult,Sad
+I made a big mistake,Sad
+I feel ignored,Sad
+I am worried about the future,Sad
+I don't feel motivated,Sad
+I am feeling depressed today,Sad
+I lost my confidence,Sad
+Everything seems unfair,Sad
+I feel broken inside,Sad
+I am having a hard time,Sad
+,
+I am losing my patience,Angry
+This is so frustrating,Angry
+I cannot tolerate this anymore,Angry
+I am mad right now,Angry
+Leave me alone,Angry
+I am upset with everyone,Angry
+This ruined my day,Angry
+I hate waiting for so long,Angry
+I am disappointed and angry,Angry
+Nobody listens to me,Angry
+This is completely unfair,Angry
+I am shouting in anger,Angry
+I feel irritated,Angry
+I am annoyed by this behavior,Angry
+This situation is unbearable,Angry
+Why is everyone so careless,Angry
+I feel like screaming,Angry
+I am furious about this,Angry
+I cannot stay calm,Angry
+I am angry with myself,Angry
+This is driving me crazy,Angry
+I am sick of this,Angry
+Everything is making me angry,Angry
+I lost my temper,Angry
+I need some space,Angry
+,
+I am drinking coffee,Neutral
+I am checking my emails,Neutral
+The meeting starts at ten,Neutral
+I am learning Python,Neutral
+I completed my homework,Neutral
+I am walking to school,Neutral
+The train arrived on time,Neutral
+I am watching television,Neutral
+Today is Monday,Neutral
+I bought some groceries,Neutral
+I am waiting for my turn,Neutral
+The room is clean,Neutral
+I am using my laptop,Neutral
+I finished reading the article,Neutral
+The class begins soon,Neutral
+I am writing notes,Neutral
+I have a busy schedule,Neutral
+The food is ready,Neutral
+I am organizing my desk,Neutral
+The internet is working fine,Neutral
+I am listening to music,Neutral
+I have completed my task,Neutral
+The sun is shining,Neutral
+I am planning my week,Neutral
+Nothing special happened today,Neutral
+I am good,Neutral
+I started my day with enthusiasm,Happy
+My family celebrated with me,Happy
+I received excellent news,Happy
+I finally solved the problem,Happy
+My hard work was recognized,Happy
+I enjoyed playing with my friends,Happy
+I felt proud after finishing my task,Happy
+Someone complimented my work,Happy
+I am looking forward to tomorrow,Happy
+I spent quality time with my family,Happy
+I learned something exciting,Happy
+My teacher appreciated my effort,Happy
+I reached my target today,Happy
+I had a delicious meal,Happy
+I enjoyed the movie,Happy
+I feel blessed today,Happy
+I completed my goals,Happy
+I made everyone laugh,Happy
+I received a scholarship,Happy
+I got my dream opportunity,Happy
+Today was full of happiness,Happy
+I enjoyed my favorite music,Happy
+I had a relaxing evening,Happy
+I made someone smile,Happy
+Life feels wonderful today,Happy
+I feel optimistic,Happy
+I celebrated a special occasion,Happy
+I finished my work early,Happy
+I had a successful meeting,Happy
+I feel lucky today,Happy
+I accomplished something important,Happy
+I woke up feeling refreshed,Happy
+I enjoyed the fresh air,Happy
+Everything worked out perfectly,Happy
+I met an old friend,Happy
+I enjoyed helping others,Happy
+I feel inspired today,Happy
+I achieved another success,Happy
+I am thankful for my family,Happy
+Today exceeded my expectations,Happy
+,
+I feel lonely tonight,Sad
+I miss my parents,Sad
+I failed to achieve my goal,Sad
+My day went badly,Sad
+I feel emotionally exhausted,Sad
+I lost my favorite item,Sad
+Nobody noticed my effort,Sad
+I feel discouraged,Sad
+I am unhappy with myself,Sad
+I wish I could change the past,Sad
+I feel forgotten,Sad
+My plans failed,Sad
+I did not sleep well,Sad
+I am worried about tomorrow,Sad
+I feel weak today,Sad
+Everything feels difficult,Sad
+I feel disconnected,Sad
+I miss the good old days,Sad
+I have no energy today,Sad
+I feel disappointed by the results,Sad
+I lost an important opportunity,Sad
+I feel hopeless about my future,Sad
+Nothing is going my way,Sad
+I cannot stop thinking about my mistakes,Sad
+Today feels empty,Sad
+I feel rejected,Sad
+My expectations were not met,Sad
+I feel like giving up,Sad
+I miss someone special,Sad
+I feel emotionally drained,Sad
+I had a terrible experience,Sad
+I don't know what to do,Sad
+I feel trapped,Sad
+I lost something valuable,Sad
+I am filled with regret,Sad
+I feel hurt by their words,Sad
+Life feels unfair today,Sad
+I had a disappointing day,Sad
+I cannot find happiness,Sad
+I feel broken today,Sad
+,
+I am extremely frustrated,Angry
+I cannot accept this,Angry
+I am upset about the decision,Angry
+I hate being ignored,Angry
+Everything is irritating me,Angry
+I feel like shouting,Angry
+I lost my patience today,Angry
+I am angry because of the delay,Angry
+This makes no sense,Angry
+I cannot deal with this anymore,Angry
+I am upset with the service,Angry
+Why did this happen to me,Angry
+I am furious with the outcome,Angry
+This is completely ridiculous,Angry
+I cannot stand this behavior,Angry
+I am angry with my mistakes,Angry
+Stop wasting my time,Angry
+I feel offended,Angry
+This is making me mad,Angry
+I am annoyed with the situation,Angry
+Nobody respects my opinion,Angry
+I feel cheated,Angry
+This is unacceptable behavior,Angry
+I am losing control,Angry
+I hate this experience,Angry
+Everything is going wrong,Angry
+I am upset for no reason,Angry
+I cannot forgive this,Angry
+I am tired of waiting,Angry
+This is the worst day ever,Angry
+I feel irritated all day,Angry
+Why won't anyone listen,Angry
+I am angry at the result,Angry
+I cannot remain calm,Angry
+This is so unfair,Angry
+I am upset with myself,Angry
+I feel intense anger,Angry
+I am furious about the mistake,Angry
+I am very annoyed,Angry
+I cannot ignore this anymore,Angry
+,
+I am attending a meeting,Neutral
+I finished my breakfast,Neutral
+The weather is cloudy,Neutral
+I am reading today's news,Neutral
+I am waiting for my class,Neutral
+The bus arrived on time,Neutral
+I completed today's assignment,Neutral
+I am sitting in the library,Neutral
+The room is quiet,Neutral
+I am preparing for my exam,Neutral
+I have a cup of tea,Neutral
+The store opens at nine,Neutral
+I am checking my phone,Neutral
+I organized my files,Neutral
+The meeting has ended,Neutral
+I am writing an email,Neutral
+The train is on schedule,Neutral
+I finished cleaning my room,Neutral
+I am working on my laptop,Neutral
+The internet connection is stable,Neutral
+I am waiting outside,Neutral
+I am studying mathematics,Neutral
+The lights are on,Neutral
+I am wearing a blue shirt,Neutral
+The road is busy,Neutral
+I finished my lunch,Neutral
+The lecture starts soon,Neutral
+I have completed my notes,Neutral
+I am planning tomorrow's tasks,Neutral
+The classroom is empty,Neutral
+I am drinking water,Neutral
+The book is on the table,Neutral
+I am updating my resume,Neutral
+I am learning a new skill,Neutral
+The office is open,Neutral
+I have an appointment today,Neutral
+I am checking the timetable,Neutral
+The fan is running,Neutral
+I am reviewing my documents,Neutral
+Nothing unusual happened today,Neutral
+Noting more important now,Neutral
+I can't believe this happened,Surprised
+What a wonderful surprise,Surprised
+I never expected this,Surprised
+This is unbelievable,Surprised
+I am shocked by the news,Surprised
+"Wow, that was unexpected",Surprised
+I did not see that coming,Surprised
+This surprised me a lot,Surprised
+I am amazed by the result,Surprised
+I was caught off guard,Surprised
+That was completely unexpected,Surprised
+I am speechless right now,Surprised
+This is beyond my imagination,Surprised
+I never thought this would happen,Surprised
+I was pleasantly surprised,Surprised
+This is an incredible moment,Surprised
+I cannot believe my eyes,Surprised
+That was a huge surprise,Surprised
+I am stunned by the outcome,Surprised
+This news left me shocked,Surprised
+I wasn't expecting such good news,Surprised
+The result surprised everyone,Surprised
+I was amazed by the performance,Surprised
+This gift was a surprise,Surprised
+Everything happened so suddenly,Surprised
+,
+I love my family,Love
+I love spending time with you,Love
+You mean everything to me,Love
+I care about you deeply,Love
+I am grateful for your love,Love
+You make me happy,Love
+I enjoy every moment with you,Love
+My heart is full of love,Love
+I cherish our friendship,Love
+I love helping others,Love
+I appreciate your kindness,Love
+You always support me,Love
+I feel loved today,Love
+I am thankful for you,Love
+You are very special to me,Love
+I admire your honesty,Love
+I enjoy being with my loved ones,Love
+Your smile brightens my day,Love
+I trust you completely,Love
+I feel connected to you,Love
+I love my pets,Love
+I enjoy caring for others,Love
+I value our relationship,Love
+You bring joy into my life,Love
+My heart belongs to you,Love
+I am feeling very happy today,Happy
+I got good news and I am excited,Happy
+Today is the best day of my life,Happy
+I am enjoying my time with friends,Happy
+I feel amazing and positive,Happy
+I feel lonely and sad today,Sad
+I miss my old friends,Sad
+I am feeling very disappointed,Sad
+Nothing is going right for me,Sad
+I feel like crying today,Sad
+I am very angry right now,Angry
+This situation makes me furious,Angry
+I hate when people lie to me,Angry
+I am frustrated with this problem,Angry
+I cannot control my anger,Angry
+I am doing my work as usual,Neutrol
+Today was a normal day,Neutrol
+I went to college in the morning,Neutrol
+I completed my assignment,Neutrol
+I am reading a book now,Neutrol
+I can't believe this happened,Surprized
+I am surprised by the result,Surprized
+This news shocked me completely,Surprized
+I never expected this moment,Surprized
+I am amazed by this achievement,Surprized
+"Wow, this is unbelievable",Surprized
+I did not see this coming,Surprized
+I am surprised to hear this news,Surprized
+This was totally unexpected,Surprized
+I am amazed by the sudden change,Surprized
+I love spending time with my family,Love
+I feel happy when I am with my loved ones,Love
+I care deeply about my friends,Love
+I love this beautiful relationship,Love
+You make me feel special,Love
+I am grateful for your love,Love
+I feel connected and happy with them,Love
+My heart is full of love,Love
+I enjoy being around people I love,Love
+I appreciate the kindness and support,Love
+I am completely shocked by this news,Shock
+I cannot believe what I just saw,Shock
+This incident left me speechless,Shock
+I am in shock after hearing this,Shock
+I never imagined this would happen,Shock
+This is the most surprising thing ever,Shock
+I am stunned by the outcome,Shock
+I don't know how to react,Shock
+This news came as a huge shock,Shock
+I am frozen after seeing this,Shock
+I was shocked after hearing the news,Shock
+I cannot believe this happened,Shock
+This incident surprised everyone,Shock
+I am completely speechless,Shock
+I was shocked by the sudden decision,Shock
+I never expected this situation,Shock
+This news changed everything suddenly,Shock
+I am unable to understand what happened,Shock
+I was stunned by the announcement,Shock
+This was a huge shock for me,Shock
+I am still trying to process this,Shock
+I was shocked to see the result,Shock
+This was the last thing I expected,Shock
+I am confused after this incident,Shock
+I cannot believe what I witnessed,Shock
+I love my family very much,Love
+I enjoy every moment with my friends,Love
+I feel love and happiness in my heart,Love
+You are very important to me,Love
+I always support the people I love,Love
+I feel lucky to have good people around me,Love
+Love makes my life beautiful,Love
+I care about everyone close to me,Love
+I feel warm and peaceful with my loved ones,Love
+I appreciate all the love I receive,Love
+My heart feels full of happiness,Love
+I love helping others,Love
+I respect and care for my family,Love
+I feel a strong connection with them,Love
+Love brings joy to my life,Love
+I was surprised to see my results,Surprized
+I never thought this would happen,Surprized
+This is beyond my expectations,Surprized
+I am amazed by this wonderful news,Surprized
+I was not expecting such a great surprise,Surprized
+I am surprised by your kindness,Surprized
+This moment really surprised me,Surprized
+I cannot believe my eyes,Surprized
+I was shocked to receive this gift,Surprized
+I am amazed at how things changed,Surprized
+This happened so suddenly,Surprized
+I did not imagine this outcome,Surprized
+I am surprised and happy about it,Surprized
+That was an unexpected experience,Surprized
+I am still surprised by what happened,Surprized
+I am extremely angry right now,Angry
+I am frustrated with this situation,Angry
+I hate when people ignore me,Angry
+This makes me so angry,Angry
+I cannot tolerate this behavior,Angry
+I am annoyed by this problem,Angry
+I feel furious about what happened,Angry
+I am upset because of their actions,Angry
+This decision makes me angry,Angry
+I am losing my patience,Angry
+I am irritated with everything today,Angry
+I am angry because they broke my trust,Angry
+I feel mad about this situation,Angry
+I am disappointed and angry,Angry
+I cannot accept this mistake,Angry
+This is really frustrating me,Angry
+I am tired of dealing with this issue,Angry
+I feel rage inside me,Angry
+I am angry at the unfair treatment,Angry
+I am upset with their attitude,Angry
+This person made me very angry,Angry
+I am furious about the result,Angry
+I feel irritated and annoyed,Angry
+I am not happy with this decision,Angry
+I am angry because nobody listens to me,Angry
+This situation is making me crazy,Angry
+I am frustrated beyond words,Angry
+I feel angry and helpless,Angry
+I am upset about the unexpected problem,Angry
+I am annoyed by their careless behavior,Angry
+I cannot control my anger,Angry
+I am very mad today,Angry
+This is the worst experience ever,Angry
+I am angry about the failure,Angry
+I feel disappointed because of them,Angry
+I am furious after hearing this news,Angry
+I hate this situation,Angry
+I am angry with my mistake,Angry
+I feel disturbed and irritated,Angry
+I feel very sad today,Sad
+I am feeling lonely and unhappy,Sad
+I miss someone very special to me,Sad
+I feel like crying right now,Sad
+I am hurt by what happened,Sad
+I feel empty inside,Sad
+I am disappointed with my life,Sad
+I feel alone even when people are around,Sad
+I lost my happiness today,Sad
+I am feeling low and tired,Sad
+I am sad because things changed,Sad
+I feel broken after this incident,Sad
+I am not feeling good today,Sad
+I feel emotional and upset,Sad
+I am missing my old days,Sad
+I feel hopeless about the situation,Sad
+I am unhappy with the result,Sad
+I feel pain in my heart,Sad
+I am sad because I failed,Sad
+I feel bad about my decision,Sad
+I am struggling with my emotions,Sad
+I feel like giving up,Sad
+I am not enjoying anything today,Sad
+I feel disappointed and sad,Sad
+I am worried and feeling down,Sad
+I feel tears in my eyes,Sad
+I am sad because nobody understands me,Sad
+I feel hurt by their words,Sad
+I am feeling depressed today,Sad
+I wish things were different,Sad
+I am unhappy with what happened,Sad
+I feel lost and confused,Sad
+I am going through a difficult time,Sad
+I feel emotionally tired,Sad
+I am sad after hearing the news,Sad
+I feel lonely at night,Sad
+I am missing my loved ones,Sad
+I feel my heart is heavy,Sad
+I am upset about my situation,Sad
+I am feeling negative today,Sad
