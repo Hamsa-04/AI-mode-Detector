@@ -27,6 +27,6 @@ AI Mood Detector is a machine learning project that predicts a user's mood based
 ## 📸 Screenshots
 
 ### Prediction Result
-![Prediction](screenshots/prediction.png)
+![Prediction](screenshots/Screenshots.png)
 ## Author
 **Hamsa H V**
